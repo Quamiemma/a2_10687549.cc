@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int mark;
-    //ask for the user input and stroe
+    int mark = 0;
+    //ask for the user input and store
     //it in mark
     cout << "Enter your score : " << endl;
     cin mark;
